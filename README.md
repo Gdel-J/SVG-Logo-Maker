@@ -77,6 +77,26 @@ DEPENDENCIES:
 
 
 
+Link walkthrough video : 
+
+
+https://drive.google.com/file/d/1JmBUp2CZx_GvtPU4WJmD_26nWw_f-BgW/view
+
+
+In Settings, at bottom right of the window, please set the video quality  at 720p
+
+![Screenshot 5]
+
+
+
+5-examples of logos generated:
+
+![Screenshot 6]
+![Screenshot 7]
+![Screenshot 8]
+
+
+
 
 
 
@@ -96,8 +116,7 @@ To run unit testing, open the terminal, and use the command `npm run test`.
  The test suite is checking for a render() method to return a string for the corresponding SVG file with the given shape color.
 
 
-
- add screenshots
+![Screenshot 9]
 
 ## Questions
 

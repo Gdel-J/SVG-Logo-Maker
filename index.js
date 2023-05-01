@@ -41,7 +41,7 @@ function writeToFile(fileName, answers) {
 
   // file system module used to generate svg file, takes in file name given in the promptUser function, the svg string
   fs.writeFile(fileName, svgString, (err) => {
-  // If error message err will be logged, If not message "Your logo.svg has been generated" will be logged
+  // If error, message err will be logged, If not, message "Your logo.svg has been generated" will be logged
     err ? console.log(err) : console.log("Your logo.svg has been generated");
   });
 
