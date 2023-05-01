@@ -30,6 +30,8 @@ function writeToFile(fileName, answers) {
   } else {
     shapeChoice = new Circle();
     svgString += `<circle cx="150" cy="115" r="80" fill="${answers.shapeBackgroundColor}"/>`;
+  }
+
      // <text> tag sets  text alignment, text-content and text-color  from user prompt with font size of "40"
   svgString += `<text x="150" y="120" text-anchor="middle" font-size="40" fill="${answers.textColor}">${answers.text}</text>`;
   // Closing </g> tag
@@ -42,9 +44,9 @@ function writeToFile(fileName, answers) {
   // If error message err will be logged, If not message "Your logo.svg has been generated" will be logged
     err ? console.log(err) : console.log("Your logo.svg has been generated");
   });
+
 }
 
-};
 
 //  function  that uses inquirer .prompt to take in and save  user's input  in the command line 
 function promptUser() {
@@ -61,13 +63,13 @@ function promptUser() {
         {
           type: "input",
           message:
-            "Choose text color (Enter color keyword OR a hexadecimal number)",
+            "Choose a text color (Enter color keyword OR a hexadecimal number)",
           name: "textColor",
         },
         
         {
           type: "list",
-          message: "What shape would you like to use for the logo,? Please choose one",
+          message: "What shape would you like to use for the logo,? ",
           choices: ["Triangle", "Square", "Circle"],
           name: "shape",
         },
@@ -76,7 +78,7 @@ function promptUser() {
           type: "input",
           message:
             "Choose shapes color (Enter color keyword or a hexadecimal number)",
-          name: "shapeColor",
+          name: "shapeBackgroundColor",
         },
       ])
       .then((answers) => {
