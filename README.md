@@ -89,8 +89,10 @@ Screenshots  and gif for usage
 
 Link walkthrough video : 
 
-
 https://drive.google.com/file/d/1JmBUp2CZx_GvtPU4WJmD_26nWw_f-BgW/view
+
+
+[SVG -Logo-Maker video.webm](https://user-images.githubusercontent.com/120201085/235566886-ae898437-f1a0-4177-ad2f-b4e43488bf82.webm)
 
 
 In Settings, at bottom right of the window, please set the video quality  at 720p
