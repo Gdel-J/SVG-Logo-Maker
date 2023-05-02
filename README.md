@@ -69,22 +69,24 @@ Screenshots  and gif for usage
 
 1-Please enter this `npm init -y` in the command line then please  answer the questions:
 
-![Screenshot 1]
+![Screenshot 1](https://user-images.githubusercontent.com/120201085/235561539-5de43b01-e758-4345-92ee-46d96d132b1c.png)
 
 2-you will have the `package.json` file:
 
-![Screenshot 2]
+![Screenshot 2](https://user-images.githubusercontent.com/120201085/235561558-946606a5-96c5-408c-8b15-fb67fe59f6fd.png)
 
 
 3-Then please install the inquierer  `npm install --save inquirer@^8.2.4`   in the command line :
 
-![Screenshot 3]
+![Screenshot 3](https://user-images.githubusercontent.com/120201085/235561573-c9b24629-6537-43c8-9b25-f66b0ca78997.png)
 
 4-you will have the `package-lock.json`
 
-![Screenshot 4]
+![Screenshot 4](https://user-images.githubusercontent.com/120201085/235561574-9c412e6d-7399-4c88-a69a-58214abb7fe4.png)
 
+5- Please install jest `npm i -D jest` to be able to run the tests
 
+![Screenshot 5](https://user-images.githubusercontent.com/120201085/235561591-a93a8524-2fa9-4cfd-b92c-e4bcc0dac111.png)
 
 Link walkthrough video : 
 
@@ -94,15 +96,19 @@ https://drive.google.com/file/d/1JmBUp2CZx_GvtPU4WJmD_26nWw_f-BgW/view
 
 In Settings, at bottom right of the window, please set the video quality  at 720p
 
-![Screenshot 5]
-
-
-
-5-examples of logos generated:
-
 ![Screenshot 6]
-![Screenshot 7]
-![Screenshot 8]
+
+![Screenshot 6](https://user-images.githubusercontent.com/120201085/235561783-df996beb-7a4f-42df-a9ff-91489946b0b6.png)
+
+
+6- examples of logos generated:
+
+![Screenshot 7]![Screenshot 7](https://user-images.githubusercontent.com/120201085/235561804-4d3732c5-5cb0-43f4-bd74-039e7cc94f77.png)
+
+
+![Screenshot 8](https://user-images.githubusercontent.com/120201085/235561806-815751d3-8b27-4533-b738-10f9b0dca1eb.png)
+
+![Screenshot 9](https://user-images.githubusercontent.com/120201085/235561808-52706c8c-f50f-42f4-b4de-c56b63c2c3f5.png)
 
 
 
@@ -121,7 +127,7 @@ To run unit testing, open the terminal, and use the command `npm run test`.
  The test suite is checking for a render() method to return a string for the corresponding SVG file with the given shape color.
 
 
-![Screenshot 9]
+![Screenshot 10](https://user-images.githubusercontent.com/120201085/235561826-57836bca-9e2a-4980-936f-90134c5a6e85.png)
 
 ## Questions
 
