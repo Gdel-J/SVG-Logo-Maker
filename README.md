@@ -140,4 +140,4 @@ N/A
 
 ## Credits
 
-This application has been made by Gérard Del Vecchio.
+This application has been made by Gérard Del Vecchio in the UCF bootcamp program. 
