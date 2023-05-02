@@ -26,27 +26,36 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 
-First :
+### FIRST :
+
 In order to use this project make sure to have the following programs installed on your computer:
--VS Code
--GitBash
--Node.js(version.16)
 
-Second:
+1.VS Code
+
+2.GitBash
+
+3.Node.js(version.16)
+
+
+### SECOND:
+
 In order to initialize the project:
-Copy Link: click the "Code" button within this GitHub SSH repository to copy link
-Clone: Within GitBash, use the command "git clone paste link here"
 
-Third: 
+Copy Link: click the `Code` button within this GitHub SSH repository to copy link
 
-In the terminal, use the command `npm init -y` to initialize and create a `package.json` .
+Clone: inside GitBash, use the command `git clone paste link here`
 
-Then you will have to install some dependencies if they are not already installed  by running `npm install --save inquirer@^8.2.4`.
+
+### THIRD: 
+
+In the terminal, use the command `npm init -y` to initialize and create a `package.json file` .
+
+Then you will have to install some dependencies by running `npm install --save inquirer@^8.2.4`.
 
 You will need to install `npm i -D jest` to be able to run the Tests
 
 
-Finally,You will want to run `node index.js` and answer the questions in order to create your SVG-Log.
+Finally,You will want to run `node index.js` and answer the questions in order to create your SVG-Logo.
 
 
 
@@ -56,7 +65,7 @@ Screenshots  and gif for usage
 
 
 
-DEPENDENCIES:
+### DEPENDENCIES:
 
 1-Please enter this `npm init -y` in the command line then please  answer the questions:
 
@@ -94,10 +103,6 @@ In Settings, at bottom right of the window, please set the video quality  at 720
 ![Screenshot 6]
 ![Screenshot 7]
 ![Screenshot 8]
-
-
-
-
 
 
 
