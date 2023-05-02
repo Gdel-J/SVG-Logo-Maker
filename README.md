@@ -26,7 +26,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 
-### FIRST :
+FIRST :
 
 In order to use this project make sure to have the following programs installed on your computer:
 
@@ -37,7 +37,7 @@ In order to use this project make sure to have the following programs installed 
 3.Node.js(version.16)
 
 
-### SECOND:
+SECOND:
 
 In order to initialize the project:
 
@@ -45,8 +45,7 @@ Copy Link: click the `Code` button within this GitHub SSH repository to copy lin
 
 Clone: inside GitBash, use the command `git clone paste link here`
 
-
-### THIRD: 
+ THIRD: 
 
 In the terminal, use the command `npm init -y` to initialize and create a `package.json file` .
 
@@ -65,7 +64,7 @@ Screenshots  and gif for usage
 
 
 
-### DEPENDENCIES:
+ DEPENDENCIES:
 
 1-Please enter this `npm init -y` in the command line then please  answer the questions:
 
