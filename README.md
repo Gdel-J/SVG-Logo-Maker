@@ -95,14 +95,14 @@ https://drive.google.com/file/d/1JmBUp2CZx_GvtPU4WJmD_26nWw_f-BgW/view
 
 In Settings, at bottom right of the window, please set the video quality  at 720p
 
-![Screenshot 6]
+
 
 ![Screenshot 6](https://user-images.githubusercontent.com/120201085/235561783-df996beb-7a4f-42df-a9ff-91489946b0b6.png)
 
 
 6- examples of logos generated:
 
-![Screenshot 7]![Screenshot 7](https://user-images.githubusercontent.com/120201085/235561804-4d3732c5-5cb0-43f4-bd74-039e7cc94f77.png)
+![Screenshot 7](https://user-images.githubusercontent.com/120201085/235561804-4d3732c5-5cb0-43f4-bd74-039e7cc94f77.png)
 
 
 ![Screenshot 8](https://user-images.githubusercontent.com/120201085/235561806-815751d3-8b27-4533-b738-10f9b0dca1eb.png)
@@ -140,4 +140,4 @@ N/A
 
 ## Credits
 
-This application has been made by Gérard Del Vecchio with a starter code provided by  the UCF FSF Bootcamp teaching team.
+This application has been made by Gérard Del Vecchio.
